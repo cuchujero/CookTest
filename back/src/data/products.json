@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Orange duck",
+        "description": "orange duck with potatoes",
+        "price": "13.50",
+        "image": "https://assets.bonappetit.com/photos/6346e31ca10f812a7b72366d/16:9/w_640,c_limit/1012-alt-birds-1-lede.jpg",
+        "createdAt": "2023-07-25T13:11:01.000Z",
+        "updatedAt": null,
+        "deletedAt": null
+    },
+    {
+        "id": 2,
+        "name": "Skilled pasta",
+        "description": "pasta with fresh tomatoes",
+        "price": "10.00",
+        "image": "https://myplate-prod.azureedge.us/sites/default/files/styles/recipe_525_x_350_/public/2020-11/SkilletPastaDinner_527x323.jpg",
+        "createdAt": "2023-07-25T13:12:01.000Z",
+        "updatedAt": null,
+        "deletedAt": null
+    },
+    {
+        "id": 3,
+        "name": "Mini hamburgers",
+        "description": "mini hamburgers with different tasts",
+        "price": "12.00",
+        "image": "https://emvwr2994ad.exactdn.com/wp-content/uploads/2014/11/svenska-hamburgerkoket-1.jpg",
+        "createdAt": "2023-08-01T13:12:05.000Z",
+        "updatedAt": null,
+        "deletedAt": null
+    },
+    {
+        "id": 4,
+        "name": "American fish",
+        "description": "Toast fish with species",
+        "price": "14.00",
+        "image": "https://www.sidechef.com/recipe/07cda902-c00b-4391-b05e-4e362953840e.jpg",
+        "createdAt": "2023-08-02T13:13:01.000Z",
+        "updatedAt": null,
+        "deletedAt": null
+    }
+]
